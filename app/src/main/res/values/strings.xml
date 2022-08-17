@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1-SQLite</string>
+    <string name="tombol">tombol</string>
+    <string name="alamat">alamat</string>
+    <string name="submit">submit</string>
+    <string name="nama">nama</string>
+</resources>
